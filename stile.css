@@ -1,0 +1,20 @@
+
+h1 {
+background: chartreuse;
+height: 100px;
+width: 1500px;
+color: rgb(244, 240, 245);
+font-size: 2em;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+div {
+margin-right: 200px;
+margin-left: 200px;
+
+
+}
