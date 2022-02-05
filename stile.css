@@ -4,7 +4,7 @@ background: chartreuse;
 height: 100px;
 width: 1500px;
 color: rgb(244, 240, 245);
-font-size: 2em;
+font-size: 8em;
 }
 
 img {
@@ -13,8 +13,10 @@ img {
 }
 
 div {
-margin-right: 200px;
-margin-left: 200px;
+margin-right: 220px;
+margin-left: 220px;
+}
 
-
+marquee{
+font-family: 'Times New Roman', Times, serif;
 }
