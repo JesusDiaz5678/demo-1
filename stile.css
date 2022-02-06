@@ -1,22 +1,127 @@
 
-h1 {
-background: chartreuse;
-height: 100px;
-width: 1500px;
-color: rgb(244, 240, 245);
-font-size: 4em;
+h1 { 
+    color: #545C52;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center
+    ;
+    
 }
+h2 {
+    color: black;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin: 50px
+    
+    
+    }
 
-img {
-    margin: auto;
-    display: block;
-}
-
-div {
-margin-right: 220px;
-margin-left: 220px;
-}
-
-marquee{
+h3 {
+color: #545C52;
+font-size: 30px;
 font-family: 'Times New Roman', Times, serif;
+font-weight: bold;
+background-color: white;
+            border: 1px solid black;
+        padding: 20px;
+
+
 }
+
+p {
+    color: black;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    text-align: justify;
+    margin: 50px;
+    
+    
+}
+
+marquee {
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border: 2px solid;
+    padding: 5px;
+    background-color: white;
+    
+
+}
+
+.imagen1 {
+    margin: auto;
+    width: 900px;
+    display: block;
+    
+
+    
+}
+.imagen2 {
+    
+    margin: auto;
+    width: 300px;
+    display: block;
+  
+   
+}
+.imagen3 {
+    margin: auto;
+    width: 500px;
+    display: block;
+    
+    
+}
+.imagen4 {
+    margin: auto;
+    width: 500px;
+    display: block;
+    
+}
+.imagen5 {
+    margin: auto;
+    width: 500px;
+    display: block;
+    
+}
+.imagen6 {
+    margin: auto;
+    width: 500px;
+    display: block;
+    
+    
+}
+.imagen7 {
+    margin: auto;
+    width: 500px;
+    display: block;
+    
+    
+}
+
+body{  
+    background-color: #BBC7CE;
+
+}
+
+    .agrupar{
+        width: 1200px;
+        border: 1px solid black;
+        margin-top: auto;
+        margin: auto;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 30px;
+
+    }
+
+    .header{
+        background-color: white;
+            border: 1px solid black;
+        padding: 20px;
+    }
+
+
